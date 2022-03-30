@@ -1,0 +1,20 @@
+- homepage
+- fazer logn / criar conta (usuario e autenticação)
+    - email
+    - username
+    - senha
+    - filmes que já viu
+    - editar perfil
+
+- filmes/series
+    - episodios
+        - videos
+        - titulo
+    - thumb
+    - titulo
+    - descrição
+    - categoria
+    - quantidade de views
+    - data de criação
+
+- barra de pesquisa
